@@ -14,7 +14,7 @@
         "optimist": "*",
         "tmp": "*",
         "fstream": "*",
-        "tar": "*",
+        "tar": "~2.2.1",
         "prompt": "*"
     },
     "keywords": [
