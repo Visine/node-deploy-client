@@ -3,7 +3,7 @@ The Node.js deploy client
 
 Node.js command-line tool is designed to help you deploy your node.js application 
 
-It is client side part of [node-deploy-server](https://github.com/AndyGrom/node-deploy-server)
+It is client side part of [node-deploy-server](../../../node-deploy-server)
 
 Usages
 ------------
